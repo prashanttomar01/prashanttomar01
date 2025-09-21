@@ -1,7 +1,10 @@
 <div align="center">
 <picture>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="270">
 </picture>
+</div>
   <br>
   <br>
 <br>
@@ -9,6 +12,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Prashant+Tomar+!;Software+Developer+%7C+Full+Stack+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
 </div>
+  <div align="center">
 <!-- <h1>Hey there! I'm Prashant Tomar 👋</h1> -->
 <h3>A Full Stack Developer, Tech Enthusiast, and Problem Solver.</h3>
 <br>
@@ -26,26 +30,23 @@
 <br>
 </div>
 
-
-<h2>About Me</h2>
-<br>
+<h2>👨‍🚀 About Me</h2>
 <p>
-I am a passionate and dedicated Full Stack Developer with a knack for building robust, scalable, and user-friendly applications. I thrive on solving complex problems and turning ideas into tangible, working solutions. My journey in tech is a continuous adventure of learning and exploration, from the intricacies of backend systems to the creative artistry of front-end design.
-</p>
-<br>
-<p>
-I believe in the power of open source and community collaboration. My contributions to various projects reflect my commitment to giving back to the ecosystem that has helped me grow. I'm always on the lookout for exciting new technologies and projects that challenge me to think outside the box.
+  🚀 Passionate about <strong>AI, Full-Stack Development, and Music</strong> <br>
+  🎶 Blending <strong>technology & creativity</strong> <br>
+  🧑‍💻 Exploring futuristic projects with <strong>AI/ML, Web3, and Cloud</strong> <br>
+  🌍 Open to collaborations across the globe <br>
 </p>
 <br>
 <!-- <img src="https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400"> -->
 
 <h2>✨ My GitHub Trophies</h2>
 <br>
-
+<div align="center">
 <a href="https://github.com/prashanttomar">
 <img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
 </a>
-
+</div>
 
 <h2>🚀 Skills & Expertise</h2>
 <br>
@@ -61,13 +62,13 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100"> -->
     
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100"> -->
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100"> -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
@@ -142,7 +143,7 @@ I believe in the power of open source and community collaboration. My contributi
 
 <h2>🌟 Featured Projects</h2>
 <br>
-<div align="center">
+<div>
 <h3>Project Nexus</h3>
 <p>A collaborative project management tool for development teams.</p>
 <p>
