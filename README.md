@@ -34,10 +34,16 @@ I am a passionate and dedicated Full Stack Developer with a knack for building r
 I believe in the power of open source and community collaboration. My contributions to various projects reflect my commitment to giving back to the ecosystem that has helped me grow. I'm always on the lookout for exciting new technologies and projects that challenge me to think outside the box.
 </p>
 <br>
-<img src="https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400">
+<!-- <img src="https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400"> -->
 
-
+<h2>✨ My GitHub Trophies</h2>
+<br>
 <div align="center">
+<a href="https://github.com/prashanttomar">
+<img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
+</a>
+</div>
+
 <h2>🚀 Skills & Expertise</h2>
 <br>
   <div align="center">
@@ -63,7 +69,7 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
-</div>
+
 <h3>Programming Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -114,7 +120,7 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 <br>
-<img src="https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600">
+<!-- <img src="https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600"> -->
 
 
 
@@ -128,12 +134,6 @@ I believe in the power of open source and community collaboration. My contributi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar&layout=compact&langs_count=8&theme=dark" alt="Prashant Tomar's Top Languages"/>
 </a>
 <br>
-
-<h3>My Contribution Streak</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=prashanttomar&theme=dark" alt="Prashant Tomar's Streak" width="600">
-<br>
-
-<img src="https://gh-graph.anmolbaranwal.com/graph-dark.svg?username=prashanttomar" alt="Prashant Tomar's Contribution Graph" width="800">
 </div>
 
 
@@ -170,7 +170,7 @@ I believe in the power of open source and community collaboration. My contributi
 </p>
 
 <br>
-<img src="https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500">
+<!-- <img src="https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500"> -->
 </div>
 
 
@@ -188,7 +188,6 @@ I believe in the power of open source and community collaboration. My contributi
 
 <h2>✨ Fun Facts & My Journey</h2>
 <br>
-<div align="center">
 <p>
 I didn't start my coding journey with a master plan. It was a simple curiosity that led me to my first "Hello, World!" and from there, it's been an incredible adventure. I love to spend my free time exploring new tech gadgets, reading about space exploration, or getting lost in a good sci-fi movie.
 </p>
@@ -197,7 +196,6 @@ I am a strong believer in the principle of continuous learning. Every project, b
 </p>
 <br>
 <img src="https://i.imgur.com/H1gTjX7.gif" alt="Fun facts animation" width="500">
-</div>
 
 
 <h2>🤝 Let's Connect!</h2>
@@ -232,9 +230,10 @@ I'm always open to new opportunities, collaborations, or just a good old-fashion
 <img src="https://i.imgur.com/5Vq6052.gif" alt="End of file animation">
 </div>
 
-<div align="center">
+
 <h2>✨ A Deeper Dive Into My Work</h2>
 <br>
+<div align="center">
 <img src="https://i.imgur.com/t345Y5R.gif" alt="Work animation" width="600">
 </div>
 
@@ -313,7 +312,7 @@ Date: Completed January 2025
 </details>
 
 <br>
-<div align="center">
+
 <h2>🌟 A Glimpse into My World</h2>
 <br>
 <p>
@@ -331,42 +330,16 @@ When I'm not typing away on a keyboard, you can find me:
 </ul>
 <br>
 <img src="https://i.imgur.com/vHq7Fv8.gif" alt="Hobby animation" width="500">
-</div>
 
-<div align="center">
-<h2>✨ My GitHub Trophies</h2>
-<br>
-<a href="https://github.com/prashanttomar">
-<img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
-</a>
-</div>
 
-<div align="center">
-<h2>⭐ Interactive Badge Section ⭐</h2>
-<p>Click on the badges to explore!</p>
-<br>
 
-<p>
-<a href="https://prashanttomar.com/portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://prashanttomar.com/blog" target="_blank">
-<img src="https://img.shields.io/badge/Blog-E91E63?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-</a>
-<a href="https://github.com/prashanttomar" target="_blank">
-<img src="https://img.shields.io/badge/Projects-03A9F4?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-</a>
-</p>
-<br>
-<img src="https://i.imgur.com/7s1H5f4.gif" alt="Interactive animation" width="400">
-</div>
 
-<div align="center">
 <h2>🌟 Hall of Fame</h2>
 <p>A place to showcase my most impactful contributions and achievements.</p>
 <br>
+<div align="center">
 <img src="https://i.imgur.com/p5t7i73.gif" alt="Hall of Fame animation" width="600">
-
+</div>
 <br>
 
 <details>
@@ -399,12 +372,13 @@ their core products and technical infrastructure.
 <br>
 </details>
 <br>
-</div>
 
-<div align="center">
+
 <h2>🚀 Journey Through My GitHub</h2>
 <br>
+<div align="center">
 <img src="https://i.imgur.com/c1o9JvP.gif" alt="GitHub animation" width="500">
+</div>
 <br>
 <p>
 My GitHub profile is more than just a collection of repositories; it's a living timeline of my growth as a developer.
@@ -416,12 +390,13 @@ transparent development, and I am proud to share my journey, one line of code at
 Feel free to explore my repositories. You'll find a variety of projects, from small personal experiments to large-scale
 collaborative efforts. Each one has a story to tell, and I'm excited to share them with you.
 </p>
-</div>
 
-<div align="center">
+
 <h2>💡 Philosophy & Mindset</h2>
 <br>
+<div align="center">
 <img src="https://i.imgur.com/d5b4k0H.gif" alt="Philosophy animation" width="500">
+</div>
 <br>
 <p>
 I am guided by a few core principles in my work:
@@ -436,15 +411,15 @@ I am guided by a few core principles in my work:
 <p>
 This mindset is at the heart of everything I do, whether I'm writing code, contributing to a project, or mentoring others.
 </p>
-</div>
 
-<div align="center">
+
 <h2>⭐ Star Gazer: My GitHub Stargazer's Log ⭐</h2>
 <br>
 <p>
 A list of some of the amazing projects I've recently starred.
 </p>
 <br>
+<div align="center">
 <img src="https://i.imgur.com/Y1gU1fE.gif" alt="Star animation" width="500">
 
 <a href="https://github.com/prashanttomar">
@@ -452,21 +427,22 @@ A list of some of the amazing projects I've recently starred.
 </a>
 </div>
 
-<div align="center">
+
 <h2>💬 My GitHub Activity</h2>
 <br>
-<img src="https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600">
+<!-- <img src="https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600"> -->
 <br>
 <p>
 I am actively engaged in the GitHub community. Here are some of my recent activities.
 </p>
 <br>
+<div align="center">
 <a href="https://github.com/prashanttomar">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanttomar&theme=react-dark" alt="Prashant Tomar's Activity" />
 </a>
 </div>
 
-<div align="center">
+
 <h2>🌌 Final Frontier</h2>
 <br>
 <p>
@@ -474,6 +450,7 @@ Thank you for taking the time to explore my GitHub profile. I'm excited about th
 constantly working to contribute to it in my own way. Feel free to connect with me.
 </p>
 <br>
+<div align="center">
 <img src="https://i.imgur.com/E8w9W9m.gif" alt="Final animation" width="500">
 <br>
 <br>
