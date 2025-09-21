@@ -187,7 +187,6 @@ I believe in the power of open source and community collaboration. My contributi
 
 
 <h2>✨ Fun Facts & My Journey</h2>
-<br>
 <p>
 I didn't start my coding journey with a master plan. It was a simple curiosity that led me to my first "Hello, World!" and from there, it's been an incredible adventure. I love to spend my free time exploring new tech gadgets, reading about space exploration, or getting lost in a good sci-fi movie.
 </p>
@@ -199,11 +198,11 @@ I am a strong believer in the principle of continuous learning. Every project, b
 
 
 <h2>🤝 Let's Connect!</h2>
-<br>
-<div align="center">
+
 <p>
 I'm always open to new opportunities, collaborations, or just a good old-fashioned chat about technology. Feel free to reach out to me on any of my social media platforms.
 </p>
+<div align="center">
 <br>
 <a href="https://linkedin.com/in/prashanttomar" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/prashanttomar" alt="LinkedIn">
@@ -314,7 +313,6 @@ Date: Completed January 2025
 <br>
 
 <h2>🌟 A Glimpse into My World</h2>
-<br>
 <p>
 My life outside of code is just as vibrant. I am a firm believer that creativity and problem-solving skills transcend the digital world. This is where I find inspiration and recharge my batteries.
 </p>
@@ -414,7 +412,6 @@ This mindset is at the heart of everything I do, whether I'm writing code, contr
 
 
 <h2>⭐ Star Gazer: My GitHub Stargazer's Log ⭐</h2>
-<br>
 <p>
 A list of some of the amazing projects I've recently starred.
 </p>
@@ -429,9 +426,7 @@ A list of some of the amazing projects I've recently starred.
 
 
 <h2>💬 My GitHub Activity</h2>
-<br>
 <!-- <img src="https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600"> -->
-<br>
 <p>
 I am actively engaged in the GitHub community. Here are some of my recent activities.
 </p>
