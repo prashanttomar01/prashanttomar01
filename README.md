@@ -1,3 +1,4 @@
+<div align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/eBf2s3k.png">
 <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/lMv3Qh4.png">
@@ -10,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=prashanttomar&style=for-the-badge&color=8250c6" alt="Profile views">
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://medium.com/@prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
@@ -20,24 +21,26 @@
 
 <br>
 <img src="https://i.imgur.com/GzB9tUf.gif" alt="Animated developer illustration" width="600">
+</div>
 
 
 <h2>About Me</h2>
 <br>
 <p>
-[cite_start]I am a passionate and dedicated Full Stack Developer with a knack for building robust, scalable, and user-friendly applications[cite: 20]. [cite_start]I thrive on solving complex problems and turning ideas into tangible, working solutions[cite: 21]. [cite_start]My journey in tech is a continuous adventure of learning and exploration, from the intricacies of backend systems to the creative artistry of front-end design[cite: 22].
+I am a passionate and dedicated Full Stack Developer with a knack for building robust, scalable, and user-friendly applications. I thrive on solving complex problems and turning ideas into tangible, working solutions. My journey in tech is a continuous adventure of learning and exploration, from the intricacies of backend systems to the creative artistry of front-end design.
 </p>
 <br>
 <p>
-[cite_start]I believe in the power of open source and community collaboration[cite: 23]. [cite_start]My contributions to various projects reflect my commitment to giving back to the ecosystem that has helped me grow[cite: 24]. [cite_start]I'm always on the lookout for exciting new technologies and projects that challenge me to think outside the box[cite: 25, 26].
+I believe in the power of open source and community collaboration. My contributions to various projects reflect my commitment to giving back to the ecosystem that has helped me grow. I'm always on the lookout for exciting new technologies and projects that challenge me to think outside the box.
 </p>
 <br>
 <img src="https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400">
 
----
 
+<div align="center">
 <h2>🚀 Skills & Expertise</h2>
 <br>
+  <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
@@ -59,7 +62,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-
+</div>
+</div>
 <h3>Programming Languages</h3>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -112,8 +116,8 @@
 <br>
 <img src="https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600">
 
----
 
+<div align="center">
 <h2>📊 My GitHub Analytics</h2>
 <br>
 
@@ -130,9 +134,9 @@
 <br>
 
 <img src="https://gh-graph.anmolbaranwal.com/graph-dark.svg?username=prashanttomar" alt="Prashant Tomar's Contribution Graph" width="800">
+</div>
 
----
-
+<div align="center">
 <h2>✍️ Latest Blog Posts</h2>
 <br>
 
@@ -140,28 +144,28 @@
 <img src="https://i.imgur.com/2YcWJ3l.gif" alt="Animated blog icon" width="100">
 </p>
 <p>
-- [cite_start]<a href="#">Building a Scalable Microservices Architecture with Golang and gRPC [cite: 57]</a>
+- <a href="#">Building a Scalable Microservices Architecture with Golang and gRPC</a>
 </p>
 <p>
-- [cite_start]<a href="#">A Deep Dive into React Hooks: Best Practices for Performance [cite: 58]</a>
+- <a href="#">A Deep Dive into React Hooks: Best Practices for Performance</a>
 </p>
 <p>
-- [cite_start]<a href="#">Demystifying Kubernetes: A Beginner's Guide to Container Orchestration [cite: 59]</a>
+- <a href="#">Demystifying Kubernetes: A Beginner's Guide to Container Orchestration</a>
 </p>
 <p>
-- [cite_start]<a href="#">From Idea to App: My Journey with Full Stack Development [cite: 60]</a>
+- <a href="#">From Idea to App: My Journey with Full Stack Development</a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/T0T5T1Q.gif" alt="Blog animation" width="500">
+</div>
 
----
-
+<div align="center">
 <h2>🌟 Featured Projects</h2>
 <br>
 
 <h3>Project Nexus</h3>
-[cite_start]<p>A collaborative project management tool for development teams[cite: 64].</p>
+<p>A collaborative project management tool for development teams.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
@@ -171,7 +175,7 @@
 
 <br>
 <h3>Data Insights Dashboard</h3>
-[cite_start]<p>An interactive data visualization dashboard built for financial analysis[cite: 67].</p>
+<p>An interactive data visualization dashboard built for financial analysis.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
@@ -181,7 +185,7 @@
 
 <br>
 <h3>AI-powered Chatbot</h3>
-[cite_start]<p>A conversational AI assistant for customer service integration[cite: 70].</p>
+<p>A conversational AI assistant for customer service integration.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=heroku&logoColor=white" alt="Live Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
@@ -191,9 +195,9 @@
 
 <br>
 <img src="https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500">
+</div>
 
----
-
+<div align="center">
 <h2>🎧 Currently Listening On Spotify</h2>
 <br>
 <a href="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar">
@@ -202,26 +206,26 @@
 <br>
 <br>
 <img src="https://i.imgur.com/3q1E3eT.gif" alt="Music animation" width="300">
+</div>
 
----
-
+<div align="center">
 <h2>✨ Fun Facts & My Journey</h2>
 <br>
 <p>
-I didn't start my coding journey with a master plan. [cite_start]It was a simple curiosity that led me to my first "Hello, World!" and from there, it's been an incredible adventure[cite: 79, 80, 81]. [cite_start]I love to spend my free time exploring new tech gadgets, reading about space exploration, or getting lost in a good sci-fi movie[cite: 81, 82].
+I didn't start my coding journey with a master plan. It was a simple curiosity that led me to my first "Hello, World!" and from there, it's been an incredible adventure. I love to spend my free time exploring new tech gadgets, reading about space exploration, or getting lost in a good sci-fi movie.
 </p>
 <p>
-I am a strong believer in the principle of continuous learning. [cite_start]Every project, big or small, teaches me something new[cite: 83]. [cite_start]I'm always looking for ways to improve my craft, whether it's by mastering a new framework or learning about a new design pattern[cite: 84].
+I am a strong believer in the principle of continuous learning. Every project, big or small, teaches me something new. I'm always looking for ways to improve my craft, whether it's by mastering a new framework or learning about a new design pattern.
 </p>
 <br>
 <img src="https://i.imgur.com/H1gTjX7.gif" alt="Fun facts animation" width="500">
+</div>
 
----
-
+<div align="center">
 <h2>🤝 Let's Connect!</h2>
 <br>
 <p>
-[cite_start]I'm always open to new opportunities, collaborations, or just a good old-fashioned chat about technology[cite: 87]. [cite_start]Feel free to reach out to me on any of my social media platforms[cite: 88, 89].
+I'm always open to new opportunities, collaborations, or just a good old-fashioned chat about technology. Feel free to reach out to me on any of my social media platforms.
 </p>
 <br>
 <a href="https://linkedin.com/in/prashanttomar" target="_blank">
@@ -243,15 +247,17 @@ I am a strong believer in the principle of continuous learning. [cite_start]Ever
 <a href="https://github.com/prashanttomar/sponsor" target="_blank">
 <img src="https://img.shields.io/badge/Sponsor_Me-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me">
 </a>
+</div>
 
-<br>
+<div align="center">
 <img src="https://i.imgur.com/5Vq6052.gif" alt="End of file animation">
+</div>
 
----
-
+<div align="center">
 <h2>✨ A Deeper Dive Into My Work</h2>
 <br>
 <img src="https://i.imgur.com/t345Y5R.gif" alt="Work animation" width="600">
+</div>
 
 <details>
 <summary><b>My Open Source Contributions</b></summary>
@@ -274,7 +280,9 @@ Contribution: Implemented a new data augmentation pipeline and a custom loss fun
 Impact: The new features resulted in a 5% increase in model accuracy on a standard image dataset.
 
 <br>
+<div align="center">
 <img src="https://i.imgur.com/83pL6gT.gif" alt="Open source animation" width="400">
+</div>
 </details>
 
 <details>
@@ -298,7 +306,9 @@ Views: 20,000+
 Summary: A comprehensive guide on setting up a GraphQL API with Node.js and Apollo Server.
 
 <br>
+<div align="center">
 <img src="https://i.imgur.com/8n0e7bH.gif" alt="Writing animation" width="400">
+</div>
 </details>
 
 <details>
@@ -318,41 +328,43 @@ Platform: Coursera (DeepLearning.AI)
 Date: Completed January 2025
 
 <br>
+<div align="center">
 <img src="https://i.imgur.com/V9KzY2K.gif" alt="Learning animation" width="400">
+</div>
 </details>
 
----
-
+<br>
+<div align="center">
 <h2>🌟 A Glimpse into My World</h2>
 <br>
 <p>
-My life outside of code is just as vibrant. I am a firm believer that creativity and problem-solving skills transcend the digital world. [cite_start]This is where I find inspiration and recharge my batteries[cite: 99, 100].
+My life outside of code is just as vibrant. I am a firm believer that creativity and problem-solving skills transcend the digital world. This is where I find inspiration and recharge my batteries.
 </p>
 <br>
 <p>
-[cite_start]When I'm not typing away on a keyboard, you can find me: [cite: 102]
+When I'm not typing away on a keyboard, you can find me:
 </p>
 <ul>
-[cite_start]<li>Exploring new hiking trails and connecting with nature[cite: 102].</li>
-[cite_start]<li>Experimenting with new recipes and trying out new cuisines[cite: 103].</li>
-[cite_start]<li>Capturing the world through my camera lens[cite: 103].</li>
-[cite_start]<li>Playing competitive games that test my strategic thinking[cite: 104].</li>
+<li>Exploring new hiking trails and connecting with nature.</li>
+<li>Experimenting with new recipes and trying out new cuisines.</li>
+<li>Capturing the world through my camera lens.</li>
+<li>Playing competitive games that test my strategic thinking.</li>
 </ul>
 <br>
 <img src="https://i.imgur.com/vHq7Fv8.gif" alt="Hobby animation" width="500">
+</div>
 
----
-
+<div align="center">
 <h2>✨ My GitHub Trophies</h2>
 <br>
 <a href="https://github.com/prashanttomar">
 <img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
 </a>
+</div>
 
----
-
+<div align="center">
 <h2>⭐ Interactive Badge Section ⭐</h2>
-[cite_start]<p>Click on the badges to explore! [cite: 109]</p>
+<p>Click on the badges to explore!</p>
 <br>
 
 <p>
@@ -368,18 +380,18 @@ My life outside of code is just as vibrant. I am a firm believer that creativity
 </p>
 <br>
 <img src="https://i.imgur.com/7s1H5f4.gif" alt="Interactive animation" width="400">
+</div>
 
----
-
+<div align="center">
 <h2>🌟 Hall of Fame</h2>
-[cite_start]<p>A place to showcase my most impactful contributions and achievements[cite: 113].</p>
+<p>A place to showcase my most impactful contributions and achievements.</p>
 <br>
 <img src="https://i.imgur.com/p5t7i73.gif" alt="Hall of Fame animation" width="600">
 
 <br>
 
 <details>
-[cite_start]<summary><b>Top Author on DEV.to [cite: 115]</b></summary>
+<summary><b>Top Author on DEV.to</b></summary>
 <br>
 <p>
 I've been recognized as a Top Author on DEV.to multiple times, a testament to my dedication to creating high-quality,
@@ -389,7 +401,7 @@ impactful technical content for the developer community.
 </details>
 
 <details>
-[cite_start]<summary><b>Featured in GitHub Community [cite: 116]</b></summary>
+<summary><b>Featured in GitHub Community</b></summary>
 <br>
 <p>
 My open-source contributions and guides have been featured by the official GitHub Community, highlighting their value
@@ -399,7 +411,7 @@ and positive impact on the ecosystem.
 </details>
 
 <details>
-[cite_start]<summary><b>Contributed to YC-backed Startups [cite: 117]</b></summary>
+<summary><b>Contributed to YC-backed Startups</b></summary>
 <br>
 <p>
 I have had the privilege of collaborating with several Y Combinator-backed startups, helping them build and scale
@@ -408,47 +420,50 @@ their core products and technical infrastructure.
 <br>
 </details>
 <br>
+</div>
 
----
-
+<div align="center">
 <h2>🚀 Journey Through My GitHub</h2>
 <br>
 <img src="https://i.imgur.com/c1o9JvP.gif" alt="GitHub animation" width="500">
 <br>
 <p>
-[cite_start]My GitHub profile is more than just a collection of repositories; it's a living timeline of my growth as a developer[cite: 120, 121]. [cite_start]Each commit, pull request, and issue represents a new lesson learned and a challenge overcome[cite: 122]. [cite_start]I believe in transparent development, and I am proud to share my journey, one line of code at a time[cite: 123, 124].
+My GitHub profile is more than just a collection of repositories; it's a living timeline of my growth as a developer.
+Each commit, pull request, and issue represents a new lesson learned and a challenge overcome. I believe in
+transparent development, and I am proud to share my journey, one line of code at a time.
 </p>
 <br>
 <p>
-Feel free to explore my repositories. You'll find a variety of projects, from small personal experiments to large-scale collaborative efforts. [cite_start]Each one has a story to tell, and I'm excited to share them with you[cite: 125, 126].
+Feel free to explore my repositories. You'll find a variety of projects, from small personal experiments to large-scale
+collaborative efforts. Each one has a story to tell, and I'm excited to share them with you.
 </p>
+</div>
 
----
-
+<div align="center">
 <h2>💡 Philosophy & Mindset</h2>
 <br>
 <img src="https://i.imgur.com/d5b4k0H.gif" alt="Philosophy animation" width="500">
 <br>
 <p>
-[cite_start]I am guided by a few core principles in my work[cite: 129]:
+I am guided by a few core principles in my work:
 </p>
 <ul>
-[cite_start]<li>Empathy: I strive to build products that are intuitive and truly solve users' problems[cite: 130].</li>
-[cite_start]<li>Curiosity: I am always asking "why?" and "how?" to dig deeper and understand the core of a problem[cite: 131].</li>
-[cite_start]<li>Collaboration: I believe that the best work is done when we work together, sharing knowledge and supporting each other[cite: 132].</li>
-[cite_start]<li>Resilience: I view challenges not as obstacles, but as opportunities to learn and grow[cite: 133].</li>
+<li>Empathy: I strive to build products that are intuitive and truly solve users' problems.</li>
+<li>Curiosity: I am always asking "why?" and "how?" to dig deeper and understand the core of a problem.</li>
+<li>Collaboration: I believe that the best work is done when we work together, sharing knowledge and supporting each other.</li>
+<li>Resilience: I view challenges not as obstacles, but as opportunities to learn and grow.</li>
 </ul>
 <br>
 <p>
-[cite_start]This mindset is at the heart of everything I do, whether I'm writing code, contributing to a project, or mentoring others[cite: 134].
+This mindset is at the heart of everything I do, whether I'm writing code, contributing to a project, or mentoring others.
 </p>
+</div>
 
----
-
+<div align="center">
 <h2>⭐ Star Gazer: My GitHub Stargazer's Log ⭐</h2>
 <br>
 <p>
-[cite_start]A list of some of the amazing projects I've recently starred[cite: 137].
+A list of some of the amazing projects I've recently starred.
 </p>
 <br>
 <img src="https://i.imgur.com/Y1gU1fE.gif" alt="Star animation" width="500">
@@ -456,32 +471,34 @@ Feel free to explore my repositories. You'll find a variety of projects, from sm
 <a href="https://github.com/prashanttomar">
 <img src="https://api.github.com/users/prashanttomar/starred?sort=created&direction=desc&limit=10" alt="Starred Repositories" />
 </a>
+</div>
 
----
-
+<div align="center">
 <h2>💬 My GitHub Activity</h2>
 <br>
 <img src="https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600">
 <br>
 <p>
-I am actively engaged in the GitHub community. [cite_start]Here are some of my recent activities[cite: 141].
+I am actively engaged in the GitHub community. Here are some of my recent activities.
 </p>
 <br>
 <a href="https://github.com/prashanttomar">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanttomar&theme=react-dark" alt="Prashant Tomar's Activity" />
 </a>
+</div>
 
----
-
+<div align="center">
 <h2>🌌 Final Frontier</h2>
 <br>
 <p>
-[cite_start]Thank you for taking the time to explore my GitHub profile[cite: 144]. [cite_start]I'm excited about the future of technology and I'm constantly working to contribute to it in my own way[cite: 145]. [cite_start]Feel free to connect with me[cite: 146].
+Thank you for taking the time to explore my GitHub profile. I'm excited about the future of technology and I'm
+constantly working to contribute to it in my own way. Feel free to connect with me.
 </p>
 <br>
 <img src="https://i.imgur.com/E8w9W9m.gif" alt="Final animation" width="500">
 <br>
 <br>
 <p>
-[cite_start]Made with ❤️ by Prashant Tomar [cite: 148]
+Made with ❤️ by Prashant Tomar
 </p>
+</div>
