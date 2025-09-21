@@ -41,11 +41,11 @@ I believe in the power of open source and community collaboration. My contributi
 
 <h2>✨ My GitHub Trophies</h2>
 <br>
-<div align="center">
+
 <a href="https://github.com/prashanttomar">
 <img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
 </a>
-</div>
+
 
 <h2>🚀 Skills & Expertise</h2>
 <br>
