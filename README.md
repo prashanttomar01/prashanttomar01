@@ -117,10 +117,10 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600">
 
 
-<div align="center">
+
 <h2>📊 My GitHub Analytics</h2>
 <br>
-
+<div align="center">
 <a href="https://github.com/prashanttomar">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanttomar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Prashant Tomar's GitHub Stats"/>
 </a>
@@ -136,34 +136,10 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://gh-graph.anmolbaranwal.com/graph-dark.svg?username=prashanttomar" alt="Prashant Tomar's Contribution Graph" width="800">
 </div>
 
-<div align="center">
-<h2>✍️ Latest Blog Posts</h2>
-<br>
 
-<p>
-<img src="https://i.imgur.com/2YcWJ3l.gif" alt="Animated blog icon" width="100">
-</p>
-<p>
-- <a href="#">Building a Scalable Microservices Architecture with Golang and gRPC</a>
-</p>
-<p>
-- <a href="#">A Deep Dive into React Hooks: Best Practices for Performance</a>
-</p>
-<p>
-- <a href="#">Demystifying Kubernetes: A Beginner's Guide to Container Orchestration</a>
-</p>
-<p>
-- <a href="#">From Idea to App: My Journey with Full Stack Development</a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/T0T5T1Q.gif" alt="Blog animation" width="500">
-</div>
-
-<div align="center">
 <h2>🌟 Featured Projects</h2>
 <br>
-
+<div align="center">
 <h3>Project Nexus</h3>
 <p>A collaborative project management tool for development teams.</p>
 <p>
@@ -197,9 +173,10 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500">
 </div>
 
-<div align="center">
+
 <h2>🎧 Currently Listening On Spotify</h2>
 <br>
+<div align="center">
 <a href="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar">
 <img src="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar" alt="Spotify Now Playing">
 </a>
@@ -208,9 +185,10 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://i.imgur.com/3q1E3eT.gif" alt="Music animation" width="300">
 </div>
 
-<div align="center">
+
 <h2>✨ Fun Facts & My Journey</h2>
 <br>
+<div align="center">
 <p>
 I didn't start my coding journey with a master plan. It was a simple curiosity that led me to my first "Hello, World!" and from there, it's been an incredible adventure. I love to spend my free time exploring new tech gadgets, reading about space exploration, or getting lost in a good sci-fi movie.
 </p>
@@ -221,9 +199,10 @@ I am a strong believer in the principle of continuous learning. Every project, b
 <img src="https://i.imgur.com/H1gTjX7.gif" alt="Fun facts animation" width="500">
 </div>
 
-<div align="center">
+
 <h2>🤝 Let's Connect!</h2>
 <br>
+<div align="center">
 <p>
 I'm always open to new opportunities, collaborations, or just a good old-fashioned chat about technology. Feel free to reach out to me on any of my social media platforms.
 </p>
