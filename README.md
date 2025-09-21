@@ -1,45 +1,26 @@
-<!--
-Hi Prashant! This is a highly customized and interactive GitHub profile README.
-It's designed to be a unique blend of personal branding, dynamic content, and engaging visuals.
-
-Feel free to customize the content further to match your specific projects, skills, and
-personal brand. All images and animations are sourced from public, free-to-use platforms
-to ensure compliance and easy integration.
-
-To update the GitHub stats and dynamic content, you'll need to use a service like
-GitHub Actions or a third-party tool that supports dynamic content generation in Markdown.
-The badges and images are pre-configured to be dynamic where possible.
-
-Enjoy your new, super-charged GitHub profile!
--->
-
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://i.imgur.com/eBf2s3k.png">
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://i.imgur.com/lMv3Qh4.png">
-<img src="https://www.google.com/search?q=https://i.imgur.com/lMv3Qh4.png" width="800">
+<source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/eBf2s3k.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/lMv3Qh4.png">
+<img src="https://i.imgur.com/lMv3Qh4.png" width="800">
 </picture>
 <br>
 <h1>Hey there! I'm Prashant Tomar 👋</h1>
 <h3>A Full Stack Developer, Tech Enthusiast, and Problem Solver.</h3>
 <br>
 
-<!-- Visitor Count Badge -->
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dprashanttomar%26style%3Dfor-the-badge%26color%3D8250c6" alt="Profile views">
-
-<!-- Social Badges with animations -->
+<img src="https://komarev.com/ghpvc/?username=prashanttomar&style=for-the-badge&color=8250c6" alt="Profile views">
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/prashanttomar" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://www.google.com/search?q=https://twitter.com/prashanttomar" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"></a>
-<a href="https://www.google.com/search?q=https://medium.com/%40prashanttomar" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite" alt="Medium"></a>
+<a href="https://linkedin.com/in/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://medium.com/@prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="mailto:prashant.tomar@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.google.com/search?q=https://dev.to/prashanttomar" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/DEV-0A0A0A%3Fstyle%3Dfor-the-badge%26logo%3Ddev-dot-to%26logoColor%3Dwhite" alt="Dev.to"></a>
+<a href="https://dev.to/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to"></a>
 </p>
 
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/GzB9tUf.gif" alt="Animated developer illustration" width="600">
+<img src="https://i.imgur.com/GzB9tUf.gif" alt="Animated developer illustration" width="600">
 </div>
 
 <div align="center">
@@ -53,7 +34,7 @@ I am a passionate and dedicated Full Stack Developer with a knack for building r
 I believe in the power of open source and community collaboration. My contributions to various projects reflect my commitment to giving back to the ecosystem that has helped me grow. I'm always on the lookout for exciting new technologies and projects that challenge me to think outside the box.
 </p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400">
+<img src="https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400">
 </div>
 
 <div align="center">
@@ -72,7 +53,7 @@ I believe in the power of open source and community collaboration. My contributi
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
-  
+    
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
@@ -84,92 +65,82 @@ I believe in the power of open source and community collaboration. My contributi
 </div>
 <h3>Programming Languages</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" alt="Go">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
 <h3>Front-End Frameworks & Libraries</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" alt="Next.js">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dfor-the-badge%26logo%3Dvue.js%26logoColor%3Dwhite" alt="Vue.js">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 </p>
 
 <h3>Back-End Frameworks & Runtimes</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
 </p>
 
 <h3>Databases</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
 <h3>Cloud & DevOps</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" alt="Google Cloud">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
 <h3>Tools & Others</h3>
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600">
+<img src="https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600">
 </div>
 
 <div align="center">
 <h2>📊 My GitHub Analytics</h2>
 <br>
 
-<!-- GitHub stats cards -->
-
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dprashanttomar%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Prashant Tomar's GitHub Stats"/>
+<a href="https://github.com/prashanttomar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanttomar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Prashant Tomar's GitHub Stats"/>
 </a>
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dprashanttomar%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddark" alt="Prashant Tomar's Top Languages"/>
+<a href="https://github.com/prashanttomar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar&layout=compact&langs_count=8&theme=dark" alt="Prashant Tomar's Top Languages"/>
 </a>
 <br>
-
-<!-- Contribution calendar -->
 
 <h3>My Contribution Streak</h3>
-<img src="https://www.google.com/search?q=http://github-profile-summary-cards.vercel.app/api/cards/streak%3Fusername%3Dprashanttomar%26theme%3Ddark" alt="Prashant Tomar's Streak" width="600">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=prashanttomar&theme=dark" alt="Prashant Tomar's Streak" width="600">
 <br>
 
-<!-- Themed GitHub contribution graph -->
-
-<img src="https://www.google.com/search?q=https://gh-graph.anmolbaranwal.com/graph-dark.svg%3Fusername%3Dprashanttomar" alt="Prashant Tomar's Contribution Graph" width="800">
+<img src="https://gh-graph.anmolbaranwal.com/graph-dark.svg?username=prashanttomar" alt="Prashant Tomar's Contribution Graph" width="800">
 </div>
 
 <div align="center">
 <h2>✍️ Latest Blog Posts</h2>
 <br>
 
-<!-- This section would be dynamically generated. You need to use a tool to fetch your latest blog posts.
-For example, using a GitHub Action that fetches RSS feeds.
-The following links are placeholders. -->
-
 <p>
-<img src="https://www.google.com/search?q=https://i.imgur.com/2YcWJ3l.gif" alt="Animated blog icon" width="100">
+<img src="https://i.imgur.com/2YcWJ3l.gif" alt="Animated blog icon" width="100">
 </p>
 <p>
 - <a href="#">Building a Scalable Microservices Architecture with Golang and gRPC</a>
@@ -185,58 +156,55 @@ The following links are placeholders. -->
 </p>
 <br>
 
-<img src="https://www.google.com/search?q=https://i.imgur.com/T0T5T1Q.gif" alt="Blog animation" width="500">
+<img src="https://i.imgur.com/T0T5T1Q.gif" alt="Blog animation" width="500">
 </div>
 
 <div align="center">
 <h2>🌟 Featured Projects</h2>
 <br>
 
-<!-- This is a list of your projects with interactive badges -->
-
 <h3>Project Nexus</h3>
 <p>A collaborative project management tool for development teams.</p>
 <p>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-white%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dblack" alt="Live Demo"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Repo-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Repo"></a>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tech_Stack-React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tech_Stack-Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
+<img src="https://img.shields.io/badge/Tech_Stack-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Tech_Stack-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
 <br>
 <h3>Data Insights Dashboard</h3>
 <p>An interactive data visualization dashboard built for financial analysis.</p>
 <p>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-white%3Fstyle%3Dfor-the-badge%26logo%3Dnetlify%26logoColor%3Dblack" alt="Live Demo"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Repo-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Repo"></a>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tech_Stack-Vue.js-4FC08D%3Fstyle%3Dfor-the-badge%26logo%3Dvue.js%26logoColor%3Dwhite" alt="Vue.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tech_Stack-Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
+<img src="https://img.shields.io/badge/Tech_Stack-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+<img src="https://img.shields.io/badge/Tech_Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 <br>
 <h3>AI-powered Chatbot</h3>
 <p>A conversational AI assistant for customer service integration.</p>
 <p>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Live_Demo-white%3Fstyle%3Dfor-the-badge%26logo%3Dheroku%26logoColor%3Dwhite" alt="Live Demo"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub_Repo-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Repo"></a>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tech_Stack-TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tech_Stack-Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js">
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=heroku&logoColor=white" alt="Live Demo"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
+<img src="https://img.shields.io/badge/Tech_Stack-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Tech_Stack-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500">
+<img src="https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500">
 </div>
 
 <div align="center">
 <h2>🎧 Currently Listening On Spotify</h2>
 <br>
-<!-- This is a dynamic card that shows what you are listening to on Spotify -->
-<a href="https://www.google.com/search?q=https://open.spotify.com/user/spotify_username">
-<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/now-playing%3Ftheme%3Ddark%26username%3Dprashanttomar" alt="Spotify Now Playing">
+<a href="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar">
+<img src="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar" alt="Spotify Now Playing">
 </a>
 <br>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/3q1E3eT.gif" alt="Music animation" width="300">
+<img src="https://i.imgur.com/3q1E3eT.gif" alt="Music animation" width="300">
 </div>
 
 <div align="center">
@@ -249,7 +217,7 @@ I didn't start my coding journey with a master plan. It was a simple curiosity t
 I am a strong believer in the principle of continuous learning. Every project, big or small, teaches me something new. I'm always looking for ways to improve my craft, whether it's by mastering a new framework or learning about a new design pattern.
 </p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/H1gTjX7.gif" alt="Fun facts animation" width="500">
+<img src="https://i.imgur.com/H1gTjX7.gif" alt="Fun facts animation" width="500">
 </div>
 
 <div align="center">
@@ -259,39 +227,35 @@ I am a strong believer in the principle of continuous learning. Every project, b
 I'm always open to new opportunities, collaborations, or just a good old-fashioned chat about technology. Feel free to reach out to me on any of my social media platforms.
 </p>
 <br>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/prashanttomar" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26link%3Dhttps://linkedin.com/in/prashanttomar" alt="LinkedIn">
+<a href="https://linkedin.com/in/prashanttomar" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/prashanttomar" alt="LinkedIn">
 </a>
-<a href="https://www.google.com/search?q=https://twitter.com/prashanttomar" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dflat-square%26logo%3Dtwitter%26link%3Dhttps://twitter.com/prashanttomar" alt="Twitter">
+<a href="https://twitter.com/prashanttomar" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&link=https://twitter.com/prashanttomar" alt="Twitter">
 </a>
-<a href="https://www.google.com/search?q=https://dev.to/prashanttomar" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-DEV.to-0A0A0A%3Fstyle%3Dflat-square%26logo%3Ddev-dot-to%26link%3Dhttps://dev.to/prashanttomar" alt="DEV.to">
+<a href="https://dev.to/prashanttomar" target="_blank">
+<img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev-dot-to&link=https://dev.to/prashanttomar" alt="DEV.to">
 </a>
 <a href="mailto:prashant.tomar@email.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26link%3Dmailto:prashant.tomar%40email.com" alt="Email">
+<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:prashant.tomar%40email.com" alt="Email">
 </a>
 
 <br>
 <br>
 
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar/sponsor" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Sponsor_Me-FF6347%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Sponsor Me">
+<a href="https://github.com/prashanttomar/sponsor" target="_blank">
+<img src="https://img.shields.io/badge/Sponsor_Me-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me">
 </a>
 </div>
 
 <div align="center">
-<!-- End of file marker with a cool animated GIF -->
-<img src="https://www.google.com/search?q=https://i.imgur.com/5Vq6052.gif" alt="End of file animation">
+<img src="https://i.imgur.com/5Vq6052.gif" alt="End of file animation">
 </div>
-
-<!-- This section is for making the file longer as requested by the user.
-It includes a variety of creative elements and repeating sections. -->
 
 <div align="center">
 <h2>✨ A Deeper Dive Into My Work</h2>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/t345Y5R.gif" alt="Work animation" width="600">
+<img src="https://i.imgur.com/t345Y5R.gif" alt="Work animation" width="600">
 </div>
 
 <details>
@@ -316,7 +280,7 @@ Impact: The new features resulted in a 5% increase in model accuracy on a standa
 
 <br>
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.imgur.com/83pL6gT.gif" alt="Open source animation" width="400">
+<img src="https://i.imgur.com/83pL6gT.gif" alt="Open source animation" width="400">
 </div>
 </details>
 
@@ -342,7 +306,7 @@ Summary: A comprehensive guide on setting up a GraphQL API with Node.js and Apol
 
 <br>
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.imgur.com/8n0e7bH.gif" alt="Writing animation" width="400">
+<img src="https://i.imgur.com/8n0e7bH.gif" alt="Writing animation" width="400">
 </div>
 </details>
 
@@ -364,11 +328,9 @@ Date: Completed January 2025
 
 <br>
 <div align="center">
-<img src="https://www.google.com/search?q=https://i.imgur.com/V9KzY2K.gif" alt="Learning animation" width="400">
+<img src="https://i.imgur.com/V9KzY2K.gif" alt="Learning animation" width="400">
 </div>
 </details>
-
-<!-- Adding more content to meet the length requirement -->
 
 <br>
 <div align="center">
@@ -388,14 +350,14 @@ When I'm not typing away on a keyboard, you can find me:
 <li>Playing competitive games that test my strategic thinking.</li>
 </ul>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/vHq7Fv8.gif" alt="Hobby animation" width="500">
+<img src="https://i.imgur.com/vHq7Fv8.gif" alt="Hobby animation" width="500">
 </div>
 
 <div align="center">
 <h2>✨ My GitHub Trophies</h2>
 <br>
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dprashanttomar%26theme%3Dnord" alt="GitHub Trophies" width="800">
+<a href="https://github.com/prashanttomar">
+<img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
 </a>
 </div>
 
@@ -405,25 +367,25 @@ When I'm not typing away on a keyboard, you can find me:
 <br>
 
 <p>
-<a href="https://www.google.com/search?q=https://prashanttomar.com/portfolio" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dwordpress%26logoColor%3Dwhite" alt="Portfolio">
+<a href="https://prashanttomar.com/portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://www.google.com/search?q=https://prashanttomar.com/blog" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Blog-E91E63%3Fstyle%3Dfor-the-badge%26logo%3Dblogger%26logoColor%3Dwhite" alt="Blog">
+<a href="https://prashanttomar.com/blog" target="_blank">
+<img src="https://img.shields.io/badge/Blog-E91E63?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
 </a>
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Projects-03A9F4%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="Projects">
+<a href="https://github.com/prashanttomar" target="_blank">
+<img src="https://img.shields.io/badge/Projects-03A9F4?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
 </a>
 </p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/7s1H5f4.gif" alt="Interactive animation" width="400">
+<img src="https://i.imgur.com/7s1H5f4.gif" alt="Interactive animation" width="400">
 </div>
 
 <div align="center">
 <h2>🌟 Hall of Fame</h2>
 <p>A place to showcase my most impactful contributions and achievements.</p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/p5t7i73.gif" alt="Hall of Fame animation" width="600">
+<img src="https://i.imgur.com/p5t7i73.gif" alt="Hall of Fame animation" width="600">
 
 <br>
 
@@ -459,12 +421,10 @@ their core products and technical infrastructure.
 <br>
 </div>
 
-<!-- Adding more decorative elements and sections to increase the line count -->
-
 <div align="center">
 <h2>🚀 Journey Through My GitHub</h2>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/c1o9JvP.gif" alt="GitHub animation" width="500">
+<img src="https://i.imgur.com/c1o9JvP.gif" alt="GitHub animation" width="500">
 <br>
 <p>
 My GitHub profile is more than just a collection of repositories; it's a living timeline of my growth as a developer.
@@ -481,7 +441,7 @@ collaborative efforts. Each one has a story to tell, and I'm excited to share th
 <div align="center">
 <h2>💡 Philosophy & Mindset</h2>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/d5b4k0H.gif" alt="Philosophy animation" width="500">
+<img src="https://i.imgur.com/d5b4k0H.gif" alt="Philosophy animation" width="500">
 <br>
 <p>
 I am guided by a few core principles in my work:
@@ -505,28 +465,24 @@ This mindset is at the heart of everything I do, whether I'm writing code, contr
 A list of some of the amazing projects I've recently starred.
 </p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/Y1gU1fE.gif" alt="Star animation" width="500">
+<img src="https://i.imgur.com/Y1gU1fE.gif" alt="Star animation" width="500">
 
-<!-- This is a dynamic card that shows your recently starred repositories.
-You can use a GitHub Action or another service to generate this. -->
-
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar">
-<img src="https://www.google.com/search?q=https://api.github.com/users/prashanttomar/starred%3Fsort%3Dcreated%26direction%3Ddesc%26limit%3D10" alt="Starred Repositories" />
+<a href="https://github.com/prashanttomar">
+<img src="https://api.github.com/users/prashanttomar/starred?sort=created&direction=desc&limit=10" alt="Starred Repositories" />
 </a>
 </div>
 
 <div align="center">
 <h2>💬 My GitHub Activity</h2>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600">
+<img src="https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600">
 <br>
 <p>
 I am actively engaged in the GitHub community. Here are some of my recent activities.
 </p>
 <br>
-<!-- GitHub recent activity feed -->
-<a href="https://www.google.com/search?q=https://github.com/prashanttomar">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dprashanttomar%26theme%3Dreact-dark" alt="Prashant Tomar's Activity" />
+<a href="https://github.com/prashanttomar">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanttomar&theme=react-dark" alt="Prashant Tomar's Activity" />
 </a>
 </div>
 
@@ -538,12 +494,10 @@ Thank you for taking the time to explore my GitHub profile. I'm excited about th
 constantly working to contribute to it in my own way. Feel free to connect with me.
 </p>
 <br>
-<img src="https://www.google.com/search?q=https://i.imgur.com/E8w9W9m.gif" alt="Final animation" width="500">
+<img src="https://i.imgur.com/E8w9W9m.gif" alt="Final animation" width="500">
 <br>
 <br>
 <p>
 Made with ❤️ by Prashant Tomar
 </p>
 </div>
-
-<!-- This section is just for padding to ensure the file is over 1000 lines. -->
