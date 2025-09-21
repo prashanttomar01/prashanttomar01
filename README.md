@@ -1,13 +1,13 @@
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/eBf2s3k.png">
-<source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/lMv3Qh4.png">
-<img src="https://i.imgur.com/lMv3Qh4.png" width="800">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="550"/>
 </picture>
+  <br>
+  <br>
 <br>
   <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=90237&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Prashant+Tomar!;AI+Engineer+%7C+Full+Stack+Developer+%7C+Musician;Welcome+to+my+Futuristic+GitHub+Profile" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Prashant+Tomar+!;Software+Developer+%7C+Full+Stack+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
 </div>
 <!-- <h1>Hey there! I'm Prashant Tomar 👋</h1> -->
 <h3>A Full Stack Developer, Tech Enthusiast, and Problem Solver.</h3>
@@ -24,7 +24,6 @@
 </p>
 
 <br>
-<img src="https://i.imgur.com/GzB9tUf.gif" alt="Animated developer illustration" width="600">
 </div>
 
 
