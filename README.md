@@ -130,15 +130,14 @@
 
 <h2>📊 My GitHub Analytics</h2>
 <br>
-<div align="center">
-<a href="https://github.com/prashanttomar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashanttomar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Prashant Tomar's GitHub Stats"/>
-</a>
-<a href="https://github.com/prashanttomar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar&layout=compact&langs_count=8&theme=dark" alt="Prashant Tomar's Top Languages"/>
-</a>
-<br>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="470"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar01&layout=compact&theme=tokyonight" width="450"/>
+</p>
 
 
 <h2>🌟 Featured Projects</h2>
@@ -316,25 +315,6 @@ Date: Completed January 2025
 
 <br>
 
-<h2>🌟 A Glimpse into My World</h2>
-<p>
-My life outside of code is just as vibrant. I am a firm believer that creativity and problem-solving skills transcend the digital world. This is where I find inspiration and recharge my batteries.
-</p>
-<br>
-<p>
-When I'm not typing away on a keyboard, you can find me:
-</p>
-<ul>
-<li>Exploring new hiking trails and connecting with nature.</li>
-<li>Experimenting with new recipes and trying out new cuisines.</li>
-<li>Capturing the world through my camera lens.</li>
-<li>Playing competitive games that test my strategic thinking.</li>
-</ul>
-<br>
-<img src="https://i.imgur.com/vHq7Fv8.gif" alt="Hobby animation" width="500">
-
-
-
 
 <h2>🌟 Hall of Fame</h2>
 <p>A place to showcase my most impactful contributions and achievements.</p>
@@ -376,24 +356,6 @@ their core products and technical infrastructure.
 <br>
 
 
-<h2>🚀 Journey Through My GitHub</h2>
-<br>
-<div align="center">
-<img src="https://i.imgur.com/c1o9JvP.gif" alt="GitHub animation" width="500">
-</div>
-<br>
-<p>
-My GitHub profile is more than just a collection of repositories; it's a living timeline of my growth as a developer.
-Each commit, pull request, and issue represents a new lesson learned and a challenge overcome. I believe in
-transparent development, and I am proud to share my journey, one line of code at a time.
-</p>
-<br>
-<p>
-Feel free to explore my repositories. You'll find a variety of projects, from small personal experiments to large-scale
-collaborative efforts. Each one has a story to tell, and I'm excited to share them with you.
-</p>
-
-
 <h2>💡 Philosophy & Mindset</h2>
 <br>
 <div align="center">
@@ -415,20 +377,6 @@ This mindset is at the heart of everything I do, whether I'm writing code, contr
 </p>
 
 
-<h2>⭐ Star Gazer: My GitHub Stargazer's Log ⭐</h2>
-<p>
-A list of some of the amazing projects I've recently starred.
-</p>
-<br>
-<div align="center">
-<img src="https://i.imgur.com/Y1gU1fE.gif" alt="Star animation" width="500">
-
-<a href="https://github.com/prashanttomar">
-<img src="https://api.github.com/users/prashanttomar/starred?sort=created&direction=desc&limit=10" alt="Starred Repositories" />
-</a>
-</div>
-
-
 <h2>💬 My GitHub Activity</h2>
 <!-- <img src="https://i.imgur.com/HqP3wL2.gif" alt="Activity animation" width="600"> -->
 <p>
@@ -436,9 +384,9 @@ I am actively engaged in the GitHub community. Here are some of my recent activi
 </p>
 <br>
 <div align="center">
-<a href="https://github.com/prashanttomar">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanttomar&theme=react-dark" alt="Prashant Tomar's Activity" />
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanttomar01&theme=react-dark&hide_border=true" width="100%"/>
+</p>
 </div>
 
 
