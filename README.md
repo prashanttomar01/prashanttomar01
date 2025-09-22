@@ -198,106 +198,16 @@ I'm always open to new opportunities, collaborations, or just a good old-fashion
 </p>
 <div align="center">
 <br>
-<a href="https://linkedin.com/in/prashanttomar01" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/prashanttomar01" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/prashanttomarx" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&link=https://twitter.com/prashanttomarx" alt="Twitter">
-</a>
-<a href="mailto:prashanttomar.dev@email.com" target="_blank">
-<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:prashanttomar.dev%40email.com" alt="Email">
-</a>
-<a href="https://youtube/parthtomarmusic" target="_blank">
-<img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev-dot-to&link=https://dev.to/parthtomarmusic" alt="DEV.to">
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/prashanttomar/sponsor" target="_blank">
-<img src="https://img.shields.io/badge/Sponsor_Me-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me">
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/prashanttomar01/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="prashanttomar01" height="35" width="40" /></a>
+<a href="https://twitter.com/prashanttomarx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashanttomarx" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/prashanttomarx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashanttomarx" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/prashanttomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="geekyprawins" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/prashanttomar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="geekyprawins" height="30" width="40" /></a> -->
+<a href="https://www.leetcode.com/prashant-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant-tomar" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/<prashanttomar>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<prashanttomar>/profile" height="30" width="40" /></a> -->
+</p>
 </div>
-
-<h2>✨ A Deeper Dive Into My Work</h2>
-<br>
-<div align="center">
-<img src="https://i.imgur.com/t345Y5R.gif" alt="Work animation" width="600">
-</div>
-
-<details>
-<summary><b>My Open Source Contributions</b></summary>
-<br>
-
-Project Name: React-UI-Kit
-
-Description: A reusable and accessible component library for React applications.
-
-Contribution: Developed several new components including a dynamic carousel and a responsive navigation bar.
-
-Impact: Improved the project's overall accessibility score by 20% and reduced boilerplate code for consumers.
-
-Project Name: PyTorch-CNN
-
-Description: An open source library for building and training Convolutional Neural Networks.
-
-Contribution: Implemented a new data augmentation pipeline and a custom loss function for better training performance.
-
-Impact: The new features resulted in a 5% increase in model accuracy on a standard image dataset.
-
-<br>
-<div align="center">
-<img src="https://i.imgur.com/83pL6gT.gif" alt="Open source animation" width="400">
-</div>
-</details>
-
-<details>
-<summary><b>Technical Writing & Content Creation</b></summary>
-<br>
-
-Article 1: "The Future of Web Development: A Look at WebAssembly"
-
-Platform: Medium
-
-Views: 15,000+
-
-Summary: An in-depth article exploring the potential of WebAssembly for high-performance web applications.
-
-Article 2: "Getting Started with GraphQL: A Beginner's Guide"
-
-Platform: DEV.to
-
-Views: 20,000+
-
-Summary: A comprehensive guide on setting up a GraphQL API with Node.js and Apollo Server.
-
-<br>
-<div align="center">
-<img src="https://i.imgur.com/8n0e7bH.gif" alt="Writing animation" width="400">
-</div>
-</details>
-
-<details>
-<summary><b>My Certifications & Learning Journey</b></summary>
-<br>
-
-Certification: AWS Certified Developer - Associate
-
-Issued By: Amazon Web Services
-
-Date: October 2024
-
-Course: "Machine Learning Specialization"
-
-Platform: Coursera (DeepLearning.AI)
-
-Date: Completed January 2025
-
-<br>
-<div align="center">
-<img src="https://i.imgur.com/V9KzY2K.gif" alt="Learning animation" width="400">
-</div>
-</details>
 
 <br>
 
@@ -329,38 +239,29 @@ and positive impact on the ecosystem.
 </p>
 <br>
 </details>
-
 <details>
-<summary><b>Contributed to YC-backed Startups</b></summary>
+<summary><b>My Certifications & Learning Journey</b></summary>
 <br>
-<p>
-I have had the privilege of collaborating with several Y Combinator-backed startups, helping them build and scale
-their core products and technical infrastructure.
-</p>
+
+Certification: AWS Certified Developer - Associate
+
+Issued By: Amazon Web Services
+
+Date: October 2024
+
+Course: "Machine Learning Specialization"
+
+Platform: Coursera (DeepLearning.AI)
+
+Date: Completed January 2025
+
 <br>
+<div align="center">
+<img src="https://i.imgur.com/V9KzY2K.gif" alt="Learning animation" width="400">
+</div>
 </details>
 <br>
 
-
-<h2>💡 Philosophy & Mindset</h2>
-<br>
-<div align="center">
-<img src="https://i.imgur.com/d5b4k0H.gif" alt="Philosophy animation" width="500">
-</div>
-<br>
-<p>
-I am guided by a few core principles in my work:
-</p>
-<ul>
-<li>Empathy: I strive to build products that are intuitive and truly solve users' problems.</li>
-<li>Curiosity: I am always asking "why?" and "how?" to dig deeper and understand the core of a problem.</li>
-<li>Collaboration: I believe that the best work is done when we work together, sharing knowledge and supporting each other.</li>
-<li>Resilience: I view challenges not as obstacles, but as opportunities to learn and grow.</li>
-</ul>
-<br>
-<p>
-This mindset is at the heart of everything I do, whether I'm writing code, contributing to a project, or mentoring others.
-</p>
 
 
 <h2>💬 My GitHub Activity</h2>
