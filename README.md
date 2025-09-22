@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-  <img src="https://github.com/prashanttomar01/prashanttomar01/raw/main/github-cover-image.png" width="900">
+  <img src="https://github.com/prashanttomar01/prashanttomar01/raw/main/github-header-image.gif" width="800">
   <br>
 <!--   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="270"> -->
     </picture>
@@ -14,7 +14,7 @@
 </div>
   <div align="center">
 <!-- <h1>Hey there! I'm Prashant Tomar 👋</h1> -->
-<h3>A Full Stack Developer, Tech Enthusiast, and Problem Solver.</h3>
+<!-- <h3>A Full Stack Developer, Tech Enthusiast, and Problem Solver.</h3> -->
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=prashanttomar&style=for-the-badge&color=8250c6" alt="Profile views">
