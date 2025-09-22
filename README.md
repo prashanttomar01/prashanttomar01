@@ -141,7 +141,6 @@
 
 
 <h2>🌟 Featured Projects</h2>
-<br>
 <div>
 <h3>Project Nexus</h3>
 <p>A collaborative project management tool for development teams.</p>
@@ -184,17 +183,17 @@ I'm always open to new opportunities, collaborations, or just a good old-fashion
 </p>
 <div align="center">
 <br>
-<a href="https://linkedin.com/in/prashanttomar" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/prashanttomar" alt="LinkedIn">
+<a href="https://linkedin.com/in/prashanttomar01" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&link=https://linkedin.com/in/prashanttomar01" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/prashanttomar" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&link=https://twitter.com/prashanttomar" alt="Twitter">
+<a href="https://twitter.com/prashanttomarx" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&link=https://twitter.com/prashanttomarx" alt="Twitter">
 </a>
-<a href="https://dev.to/prashanttomar" target="_blank">
-<img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev-dot-to&link=https://dev.to/prashanttomar" alt="DEV.to">
+<a href="mailto:prashanttomar.dev@email.com" target="_blank">
+<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:prashanttomar.dev%40email.com" alt="Email">
 </a>
-<a href="mailto:prashant.tomar@email.com" target="_blank">
-<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:prashant.tomar%40email.com" alt="Email">
+<a href="https://youtube/parthtomarmusic" target="_blank">
+<img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev-dot-to&link=https://dev.to/parthtomarmusic" alt="DEV.to">
 </a>
 
 <br>
@@ -204,11 +203,6 @@ I'm always open to new opportunities, collaborations, or just a good old-fashion
 <img src="https://img.shields.io/badge/Sponsor_Me-FF6347?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me">
 </a>
 </div>
-
-<div align="center">
-<img src="https://i.imgur.com/5Vq6052.gif" alt="End of file animation">
-</div>
-
 
 <h2>✨ A Deeper Dive Into My Work</h2>
 <br>
