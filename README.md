@@ -9,7 +9,7 @@
   <br>
   <!-- HEADER -->
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GITHUB+Profile" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GITHUB" alt="Typing SVG" />
 </div>
   <div align="center">
 <!-- <h1>Hey there! I'm Prashant Tomar 👋</h1> -->
@@ -27,6 +27,7 @@
 </p>
 
 <br>
+<img src="https://giffiles.alphacoders.com/360/36013.gif" width="800">
 </div>
 
 <h2>👨‍🚀 About Me</h2>
