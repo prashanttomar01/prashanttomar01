@@ -19,11 +19,11 @@
 <img src="https://komarev.com/ghpvc/?username=prashanttomar&style=for-the-badge&color=8250c6" alt="Profile views">
 
 <p align="center">
-<a href="https://linkedin.com/in/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://medium.com/@prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://linkedin.com/in/prashanttomar01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/prashanttomarx" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<!-- <a href="https://medium.com/@prashanttomar" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> -->
 <a href="mailto:prashant.tomar@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://dev.to/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to"></a>
+<!-- <a href="https://dev.to/prashanttomar" target="_blank"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to"></a> -->
 </p>
 
 <br>
