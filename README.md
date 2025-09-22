@@ -29,8 +29,9 @@
 <br>
 <img src="https://giffiles.alphacoders.com/360/36013.gif" width="800">
 </div>
-
+<br>
 <h2>👨‍🚀 About Me</h2>
+  <img alt="Coder GIF" align="right" height=200 width=200 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 <p>
   🚀 Passionate about <strong>AI, Full-Stack Development, and Music</strong> <br>
   🎶 Blending <strong>technology & creativity</strong> <br>
@@ -38,7 +39,7 @@
   🌍 Open to collaborations across the globe <br>
 </p>
 <br>
-<!-- <img src="https://i.imgur.com/XFqF32D.gif" alt="Coding GIF" width="400"> -->
+
 
 <h2>✨ My GitHub Trophies</h2>
 <br>
