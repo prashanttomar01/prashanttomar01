@@ -177,29 +177,6 @@
 </div>
 
 
-<h2>🎧 Currently Listening On Spotify</h2>
-<br>
-<div align="center">
-<a href="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar">
-<img src="https://spotify-github-profile.vercel.app/api/now-playing?theme=dark&username=prashanttomar" alt="Spotify Now Playing">
-</a>
-<br>
-<br>
-<img src="https://i.imgur.com/3q1E3eT.gif" alt="Music animation" width="300">
-</div>
-
-
-<h2>✨ Fun Facts & My Journey</h2>
-<p>
-I didn't start my coding journey with a master plan. It was a simple curiosity that led me to my first "Hello, World!" and from there, it's been an incredible adventure. I love to spend my free time exploring new tech gadgets, reading about space exploration, or getting lost in a good sci-fi movie.
-</p>
-<p>
-I am a strong believer in the principle of continuous learning. Every project, big or small, teaches me something new. I'm always looking for ways to improve my craft, whether it's by mastering a new framework or learning about a new design pattern.
-</p>
-<br>
-<img src="https://i.imgur.com/H1gTjX7.gif" alt="Fun facts animation" width="500">
-
-
 <h2>🤝 Let's Connect!</h2>
 
 <p>
