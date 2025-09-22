@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-  <img src="https://github.com/prashanttomar01/prashanttomar01/raw/main/github-header-image.gif" width="800">
+  <img src="https://github.com/prashanttomar01/prashanttomar01/raw/main/github-header-image.gif" width="900">
   <br>
 <!--   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="270"> -->
     </picture>
@@ -181,7 +181,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="403"/>
 </p>
 
 <p align="center">
