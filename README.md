@@ -38,6 +38,8 @@
   🧑‍💻 Exploring futuristic projects with <strong>AI/ML, Web3, and Cloud</strong> <br>
   🌍 Open to collaborations across the globe <br>
 </p>
+<br>
+
 
 <h2>✨ My GitHub Trophies</h2>
 <br>
@@ -46,6 +48,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=prashanttomar&theme=nord" alt="GitHub Trophies" width="800">
 </a>
 </div>
+<br>
+
 
 <h2>🚀 Skills & Expertise</h2>
 <br>
@@ -140,7 +144,7 @@
 | [Project 9](link_to_Project_6_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
 | [Project 10](link_to_Project_7_repo) | Hey, this project will be updated soon !! | [Live](link_to_Project_1_live) |
 
-
+<br>
 
 
 <div>
@@ -176,8 +180,8 @@
 <h2>📊 My GitHub Analytics</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="350"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="380"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="380"/>
 </p>
 
 <p align="center">
