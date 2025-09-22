@@ -126,31 +126,35 @@
 <!-- <img src="https://i.imgur.com/uF9d10s.gif" alt="Techno GIF" width="600"> -->
 
 <h2>🌟 Featured Projects</h2>
+
+| Project Name | Description | Live Link |
+| :--- | :--- | :---: |
+| [Project 1](link_to_Project_1_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 2](link_to_Project_2_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 3](link_to_Project_3_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 4](link_to_Project_4_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 5](link_to_Project_5_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 6](link_to_Project_6_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 7](link_to_Project_7_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 8](link_to_Project_5_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 9](link_to_Project_6_repo) | Hey, this project will be updated soon !! | <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live"></a> |
+| [Project 10](link_to_Project_7_repo) | Hey, this project will be updated soon !! | [Live](link_to_Project_1_live) |
+
+
+
+
 <div>
-| Project Name         | Description                                               | Live Link |
-|----------------------|-----------------------------------------------------------|-----------|
-| **[Viva](https://viva-an-ai-receptionist.vercel.app/)**     | A voice-calling AI receptionist for clinics and hospitals.| [Live](https://viva-an-ai-receptionist.vercel.app/) |
-| **[Spoon and Fork](https://spoon-and-fork.vercel.app/)**    | A platform to explore food recipes.                      | [Live](https://spoon-and-fork.vercel.app/)     |
-| **[SAKSHAM](https://saksham-frontend.vercel.app/)**         | An AI-powered platform to generate personalized courses.  | [Live](https://saksham-frontend.vercel.app/)   |
-| **[The Silk Route](https://silk-route-frontend.vercel.app/)** | An e-commerce platform offering seamless shopping.        | [Live](https://silk-route-frontend.vercel.app/) |
-| **[Syntaxy](https://syntaxy-aibot.vercel.app/)**             | An AI chatbot for interactive conversations.              | [Live](https://syntaxy-aibot.vercel.app/)       |
-| **[Zayka](https://zayka-1.onrender.com)**                   | A food blog showcasing recipes and food stories.          | [Live](https://zayka-1.onrender.com)           |
-| **[Falcon AI](https://falcon-ai-seven.vercel.app/)**        | A platform to transform resume creation with AI.          | [Live](https://falcon-ai-seven.vercel.app/)    |
-
-
----
-  
-<h3>Project Nexus</h3>
-<!-- <p>A collaborative project management tool for development teams.</p>
+<!-- <h3>Project Nexus</h3>
+<p>A collaborative project management tool for development teams.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
 <img src="https://img.shields.io/badge/Tech_Stack-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 <img src="https://img.shields.io/badge/Tech_Stack-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
- -->
+
 <br>
-<!-- <h3>Data Insights Dashboard</h3> -->
+<h3>Data Insights Dashboard</h3> -->
 <!-- <p>An interactive data visualization dashboard built for financial analysis.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=netlify&logoColor=black" alt="Live Demo"></a>
@@ -158,31 +162,26 @@
 <img src="https://img.shields.io/badge/Tech_Stack-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
 <img src="https://img.shields.io/badge/Tech_Stack-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p> -->
-
-<br>
-<!-- <h3>AI-powered Chatbot</h3> -->
-<!-- <p>A conversational AI assistant for customer service integration.</p>
+<!-- <h3>AI-powered Chatbot</h3>
+<p>A conversational AI assistant for customer service integration.</p>
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Live_Demo-white?style=for-the-badge&logo=heroku&logoColor=white" alt="Live Demo"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"></a>
 <img src="https://img.shields.io/badge/Tech_Stack-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/Tech_Stack-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</p>
- -->
-<!-- <br>
-<!-- <img src="https://i.imgur.com/zXn2bQJ.gif" alt="Project animation" width="500"> -->
+</p> -->
 </div>
 
- -->
+
 <h2>📊 My GitHub Analytics</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="425"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar01&layout=compact&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar01&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
 
