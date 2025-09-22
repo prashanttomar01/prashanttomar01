@@ -7,10 +7,9 @@
 </div>
   <br>
   <br>
-<br>
   <!-- HEADER -->
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Prashant+Tomar+!;Software+Developer+%7C+Full+Stack+Developer;Welcome+to+my+Profile" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=50&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GITHUB+Profile" alt="Typing SVG" />
 </div>
   <div align="center">
 <!-- <h1>Hey there! I'm Prashant Tomar 👋</h1> -->
