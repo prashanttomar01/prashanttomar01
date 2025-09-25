@@ -180,13 +180,13 @@
 <h2>📊 My GitHub Analytics</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="403"/>
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanttomar01&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttomar01&theme=tokyonight" width="350"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanttomar01&layout=compact&theme=tokyonight" width="350"/>
 </p>
+
+<!-- <p align="center"> -->
+<!-- </p> -->
 
 
 
